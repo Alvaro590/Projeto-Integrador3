@@ -1,0 +1,30 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(135deg, #8e51bf 0, #4f3287 25%, #11114a 50%, #000015 75%, #000000 100%);
+   background-repeat: no-repeat;
+   color: whitesmoke;
+   text-transform: uppercase;
+   height: 100%;
+}
+.content_form{
+    margin-top: 10%;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+form{
+    width: 50%;
+}
+
+#form{
+    width: 70%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
